@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "8cf8bb907dc0906c",
+    "type": "split",
+    "children": [
+      {
+        "id": "250acd4d68d0cb86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c3639c899658c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kursmaterial/Setup/Script Directories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05acf7b4721381a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f8c58107b3d5f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef214b6830f48f1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c61033ec6d581141",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "964036718c6b6a6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "35c7781e47efc3b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a9c98a24c2f8e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f2e00e68d9847a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kursmaterial/Setup/Script Directories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fed4d7509d9b6cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kursmaterial/Setup/Script Directories.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27febe67d601a5f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "763a4c372aaa684d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kursmaterial/Setup/Script Directories.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9c3639c899658c34",
+  "lastOpenFiles": [
+    "Kursmaterial/Setup/Installation av VSCode.md",
+    "Kursmaterial/Setup/Script Directories.md",
+    "Kursmaterial/Grundteori/Grundteori Intro.md",
+    "Kursmaterial/Innehåll.md",
+    "Kursmaterial/Setup",
+    "Kursmaterial",
+    "Kursmaterial/Grundteori",
+    "Bilagor/Python Version.png",
+    "Bilagor/VSCode Python Extension.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Attachments/VSCode Python Extension.png.crdownload",
+    "Attachments/Blender Python Version.png",
+    "Attachments/blender python version.png",
+    "Attachments/screen.png",
+    "Bilagor"
+  ]
+}
