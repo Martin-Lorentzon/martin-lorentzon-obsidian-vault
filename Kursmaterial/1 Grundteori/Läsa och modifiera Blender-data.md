@@ -5,12 +5,12 @@ import bpy
 materials = bpy.data.materials  # Skapa en referens till alla material
 
 for mat in materials:         # För varje material...
-	name = mat.name           # Läs av namnet
+	name = mat.name           # Spara namnet
 	new_name = f"XYZ_{name}"  # Lägg till prefixen "XYZ_"
 	mat.name = new_name       # Uppdatera namnet av materialet
 ```
 För en överblick av vad ``bpy.data`` innehåller se [BlendData(bpy_struct) - Blender Python API](https://docs.blender.org/api/current/bpy.types.BlendData.html#bpy.types.BlendData)
-## Kodexempel - Random ljussättning
+# Kodexempel - Random ljussättning
 ```python
 import bpy
 import random

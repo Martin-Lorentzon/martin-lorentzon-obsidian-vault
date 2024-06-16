@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kursmaterial/0 Setup/🔗 Environment Variables.md",
+                "file": "Kursmaterial/0 Setup/💻 Installation av Python + BPY.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b5ea2d01a90719d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kursmaterial/1 Grundteori/Layout.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.5
   },
   "right": {
     "id": "35c7781e47efc3b5",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kursmaterial/0 Setup/🔗 Environment Variables.md",
+                "file": "Kursmaterial/1 Grundteori/Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kursmaterial/0 Setup/🔗 Environment Variables.md",
+                "file": "Kursmaterial/1 Grundteori/Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kursmaterial/0 Setup/🔗 Environment Variables.md"
+                "file": "Kursmaterial/1 Grundteori/Layout.md"
               }
             }
           }
@@ -147,27 +160,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9c3639c899658c34",
+  "active": "3b5ea2d01a90719d",
   "lastOpenFiles": [
-    "Kursmaterial/0 Setup/💻 Installation av VSCode.md",
+    "Kursmaterial/1 Grundteori/Läsa och modifiera Blender-data.md",
+    "Kursmaterial/1 Grundteori/Importera Moduler.md",
+    "Kursmaterial/1 Grundteori/🌱 Grundteori.md",
     "Kursmaterial/0 Setup/📁 Script Directories.md",
+    "Kursmaterial/0 Setup/💻 Installation av Python + BPY.md",
     "Kursmaterial/0 Setup/🔗 Environment Variables.md",
     "Kursmaterial/0 Setup/🗃 Skapa ett multi-file Add-on.md",
-    "Bilagor/Pasted image 20240529222529.png",
+    "Kursmaterial/1 Grundteori/Naming Conventions.md",
+    "Kursmaterial/1 Grundteori/Operator.md",
+    "Kursmaterial/1 Grundteori/Layout.md",
+    "Kursmaterial/1 Grundteori/Registrera Klasser.md",
+    "Kursmaterial/1 Grundteori/Property.md",
+    "Bilagor/Environment Variables.png",
+    "Bilagor/File Paths.png",
+    "Kursmaterial/0 Setup/🌱 Blenders Text Editor.md",
+    "Bilagor/Environment Variables.png~RF2fc051c.TMP",
+    "Bilagor/Environment Variables.png.0.pdnSave",
+    "Blender Python riktad mot produktionsmiljö.md",
+    "Bilagor/File Paths.png.0.pdnSave",
+    "Bilagor/New User Variable.png",
     "Bilagor/Python Version.png",
+    "Bilagor/System Properties Advanced.png",
+    "Pasted image 20240529230157.png",
+    "Pasted image 20240529230112.png",
     "Pasted image 20240529230014.png",
     "Bilagor/Pasted image 20240529222391.png",
     "Bilagor/Pasted image 20240529222391.png.0.pdnSave",
-    "Pasted image 20240529230157.png",
-    "Pasted image 20240529230112.png",
-    "Kursmaterial/1 Grundteori/Läsa och modifiera Blender-data.md",
-    "Kursmaterial/1 Grundteori/🌱 Grundteori.md",
-    "Kursmaterial/Python.md",
-    "Blender Python riktad mot produktionsmiljö.md",
-    "Kursmaterial/1 Grundteori/Property.md",
-    "Kursmaterial/1 Grundteori/Operator.md",
-    "Kursmaterial/1 Grundteori/Layout.md",
-    "Bilagor/VSCode Python Extension.png",
     "Kursmaterial/0 Setup",
     "Kursmaterial",
     "Kursmaterial/1 Grundteori",
@@ -175,9 +196,6 @@
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Attachments/VSCode Python Extension.png.crdownload",
-    "Attachments/Blender Python Version.png",
-    "Attachments/blender python version.png",
-    "Attachments/screen.png",
     "Bilagor"
   ]
 }

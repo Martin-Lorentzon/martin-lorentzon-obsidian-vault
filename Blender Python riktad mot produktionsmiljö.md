@@ -1,4 +1,4 @@
-1. [[💻 Installation av VSCode]]
+1. [[💻 Installation av Python + BPY]]
 3. [[📁 Script Directories]]
 4. [[🌱 Grundteori]]
 	1. Operator
