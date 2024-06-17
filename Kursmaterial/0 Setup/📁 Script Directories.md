@@ -36,5 +36,6 @@ S Drive (nätverksdisk)
 # Lägga till ett script directory i Blender
 Innan ert script directory kan användas måste Blender först få reda på att ert script directory existerar och vart ni har placerat det. Ni konfigurerar era script directories i Blender genom
 _Edit > Preferences > File Paths > Script Directories_
+
 ![[File Paths.png]]
 

@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c3639c899658c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kursmaterial/0 Setup/💻 Installation av Python + BPY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3b5ea2d01a90719d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kursmaterial/1 Grundteori/Layout.md",
+                "file": "Kursmaterial/Kodexempel/💡 Random ljussättning.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kursmaterial/1 Grundteori/Layout.md",
+                "file": "Kursmaterial/Kodexempel/💡 Random ljussättning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kursmaterial/1 Grundteori/Layout.md",
+                "file": "Kursmaterial/Kodexempel/💡 Random ljussättning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kursmaterial/1 Grundteori/Layout.md"
+                "file": "Kursmaterial/Kodexempel/💡 Random ljussättning.md"
               }
             }
           }
@@ -162,24 +149,28 @@
   },
   "active": "3b5ea2d01a90719d",
   "lastOpenFiles": [
-    "Kursmaterial/1 Grundteori/Läsa och modifiera Blender-data.md",
-    "Kursmaterial/1 Grundteori/Importera Moduler.md",
-    "Kursmaterial/1 Grundteori/🌱 Grundteori.md",
-    "Kursmaterial/0 Setup/📁 Script Directories.md",
-    "Kursmaterial/0 Setup/💻 Installation av Python + BPY.md",
-    "Kursmaterial/0 Setup/🔗 Environment Variables.md",
-    "Kursmaterial/0 Setup/🗃 Skapa ett multi-file Add-on.md",
-    "Kursmaterial/1 Grundteori/Naming Conventions.md",
-    "Kursmaterial/1 Grundteori/Operator.md",
-    "Kursmaterial/1 Grundteori/Layout.md",
-    "Kursmaterial/1 Grundteori/Registrera Klasser.md",
+    "Kursmaterial/Kodexempel/📝 Hantering av JSON.md",
+    "Kursmaterial/Kodexempel/💡 Random ljussättning.md",
+    "Kursmaterial/1 Grundteori/Registrera klasser.md",
     "Kursmaterial/1 Grundteori/Property.md",
+    "Kursmaterial/1 Grundteori/Operator.md",
+    "Kursmaterial/0 Setup/💻 Installation av Python + BPY.md",
+    "Kursmaterial/0 Setup/📁 Script Directories.md",
+    "Kursmaterial/0 Setup/🔗 Environment Variables.md",
+    "Kursmaterial/0 Setup/📚 Skapa ett Multi-file Add-on.md",
+    "Kursmaterial/0 Setup/⚙ Setup.md",
+    "Kursmaterial/1 Grundteori/🌱 Grundteori.md",
+    "Kursmaterial/1 Grundteori/Importera moduler.md",
+    "Kursmaterial/1 Grundteori/Läsa och modifiera Blender-data.md",
+    "Kursmaterial/1 Grundteori/Layout.md",
+    "Kursmaterial/1 Grundteori/Naming Conventions.md",
+    "🔸 Blender Python riktad mot produktionsmiljö.md",
+    "Kursmaterial/Kodexempel",
     "Bilagor/Environment Variables.png",
     "Bilagor/File Paths.png",
     "Kursmaterial/0 Setup/🌱 Blenders Text Editor.md",
     "Bilagor/Environment Variables.png~RF2fc051c.TMP",
     "Bilagor/Environment Variables.png.0.pdnSave",
-    "Blender Python riktad mot produktionsmiljö.md",
     "Bilagor/File Paths.png.0.pdnSave",
     "Bilagor/New User Variable.png",
     "Bilagor/Python Version.png",

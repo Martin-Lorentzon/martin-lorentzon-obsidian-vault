@@ -19,8 +19,8 @@ pip install fake-bpy-module
 Installera en kod-editor ni känner er bekväma i, förslagsvis Visual Studio Code eller PyCharm
 [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/download)
 https://www.jetbrains.com/pycharm/download (Skrolla ner för Community Edition)
->[!info] Det finns risk för att ni behöver byta Python interpreter om ni har fler än en aktiv installation av Python, sök i så fall "How to change Python Interpreter (din kod-editor här)"
+>[!warning] Det finns risk för att ni behöver byta Python interpreter om ni har fler än en aktiv installation av Python, sök i så fall "How to change Python Interpreter (din kod-editor här)"
 >
 # Något mer djupgående video av Michael Bridges:
-#### https://www.youtube.com/watch?v=77mMpeoh3OI
+### https://www.youtube.com/watch?v=77mMpeoh3OI
 Använd videon som hjälp när ni felsöker eventuella problem ifall att ni skulle köra fast.
