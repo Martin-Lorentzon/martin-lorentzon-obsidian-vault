@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kursmaterial/Kodexempel/💡 Random ljussättning.md",
+                "file": "Kursmaterial/0 Setup/⚙ Setup.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kursmaterial/Kodexempel/💡 Random ljussättning.md",
+                "file": "Kursmaterial/0 Setup/⚙ Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kursmaterial/Kodexempel/💡 Random ljussättning.md",
+                "file": "Kursmaterial/0 Setup/⚙ Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kursmaterial/Kodexempel/💡 Random ljussättning.md"
+                "file": "Kursmaterial/0 Setup/⚙ Setup.md"
               }
             }
           }
@@ -147,24 +147,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3b5ea2d01a90719d",
+  "active": "ef214b6830f48f1b",
   "lastOpenFiles": [
-    "Kursmaterial/Kodexempel/📝 Hantering av JSON.md",
-    "Kursmaterial/Kodexempel/💡 Random ljussättning.md",
+    "Kursmaterial/0 Setup/💻 Installation av Python + BPY.md",
+    "Kursmaterial/0 Setup/📁 Script Directories.md",
+    "Kursmaterial/0 Setup/📚 Skapa ett Multi-file Add-on.md",
+    "Kursmaterial/0 Setup/🔗 Environment Variables.md",
+    "Kursmaterial/1 Grundteori/🌱 Grundteori.md",
+    "Kursmaterial/0 Setup/⚙ Setup.md",
+    "Innehållsförteckning/🔶🐍 Blender Python riktad mot produktionsmiljö.md",
+    "Kursmaterial/1 Grundteori/Läsa och modifiera Blender-data.md",
+    "Kursmaterial/1 Grundteori/Importera moduler.md",
+    "Kursmaterial/1 Grundteori/Naming Conventions.md",
+    "Kursmaterial/1 Grundteori/Layout.md",
+    "Bilagor/System Properties Advanced.png",
     "Kursmaterial/1 Grundteori/Registrera klasser.md",
     "Kursmaterial/1 Grundteori/Property.md",
     "Kursmaterial/1 Grundteori/Operator.md",
-    "Kursmaterial/0 Setup/💻 Installation av Python + BPY.md",
-    "Kursmaterial/0 Setup/📁 Script Directories.md",
-    "Kursmaterial/0 Setup/🔗 Environment Variables.md",
-    "Kursmaterial/0 Setup/📚 Skapa ett Multi-file Add-on.md",
-    "Kursmaterial/0 Setup/⚙ Setup.md",
-    "Kursmaterial/1 Grundteori/🌱 Grundteori.md",
-    "Kursmaterial/1 Grundteori/Importera moduler.md",
-    "Kursmaterial/1 Grundteori/Läsa och modifiera Blender-data.md",
-    "Kursmaterial/1 Grundteori/Layout.md",
-    "Kursmaterial/1 Grundteori/Naming Conventions.md",
-    "🔸 Blender Python riktad mot produktionsmiljö.md",
+    "Kursmaterial/Kodexempel/📝 Hantering av JSON.md",
+    "Kursmaterial/Kodexempel/💡 Random ljussättning.md",
+    "Untitled.md",
+    "Innehållsförteckning",
     "Kursmaterial/Kodexempel",
     "Bilagor/Environment Variables.png",
     "Bilagor/File Paths.png",
@@ -174,7 +177,6 @@
     "Bilagor/File Paths.png.0.pdnSave",
     "Bilagor/New User Variable.png",
     "Bilagor/Python Version.png",
-    "Bilagor/System Properties Advanced.png",
     "Pasted image 20240529230157.png",
     "Pasted image 20240529230112.png",
     "Pasted image 20240529230014.png",
@@ -186,7 +188,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Attachments/VSCode Python Extension.png.crdownload",
-    "Bilagor"
+    "Attachments/VSCode Python Extension.png.crdownload"
   ]
 }
