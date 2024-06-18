@@ -18,7 +18,7 @@ Detta görs alltså istället för koden ovan
 ```python
 classes = [
 	CRAZY_TOOL_PT_crazy_panel,
-	CRAZY_TOOL_OT_do_crazy_things,
+	CRAZY_TOOL_OT_do_crazy_things
 ]
 
 def register():

@@ -5,10 +5,11 @@
 	* Skapa ett Multi-file Add-on
 	* Environment Variables
 1. [[🌱 Grundteori]]
+	* Importera moduler
+	* Läsa och modifiera blender-data
+	* Add-on Metadata
 	* Operator
+	* Registrera klasser
+	* Naming Conventions
 	* Layout
 	* Property
-	* Läsa och modifiera blender-data
-2. Types
-3. Context Overrides
-4. Paketera och distribuera en extension

@@ -11,7 +11,7 @@ Nedanför är en lista på de exempel Blenders dokumentation använder sig av
 ### Exempel på korrekt namngivning
 * ``MY_ADDON_OT_fancy_tool`` (``bl_idname = "my_addon.fancy_tool"``)
 * ``MY_ADDON_PT_my_panel``
-* `UPPER_CASE_UL_lower_case`
+* `UPPER_CASE_HT_lower_case`
 
 Att matcha `bl_idname` med klassens namn är valfritt förutom hos operator där dess `bl_idname` används för att kalla på operatorn -> `bpy.ops.my_addon.fancy_tool()`, då föredras lower case.
 >[!info]  `bl_idname` använder klassens namn som default värde och behövs många gånger inte definieras på nytt

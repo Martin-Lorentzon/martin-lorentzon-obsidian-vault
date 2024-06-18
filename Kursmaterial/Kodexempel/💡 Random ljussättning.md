@@ -30,12 +30,13 @@ Med `lights.new("Random Light Data", "POINT")` skapar vi oss ett nytt data-block
 För att vår ljuskälla ska synas i scenen tilldelar vi den ett objekt och länkar objektet till den aktiva scenen. Detta upprepas tre gånger.
 ### Saknar ett användargränssnitt
 Detta skriptet saknar ett UI och måste köras genom Blenders text-editor.
-Om ni vill testa på att designa ett användargränssnitt kan detta fungera som utfyllnad för gränssnittets funktionalitet. Följ i så fall dessa instruktioner
+Om ni vill testa att designa ett användargränssnitt kan detta fungera som utfyllnad för gränssnittets funktionalitet. Följ i så fall dessa instruktioner
 ```
 1. Skapa en operator som utför koden ovan
 2. Skapa en panel och placera operatorn inuti panelens draw-metod
 3. Se till att klasserna registreras ordentligt
+4. Lägg till bl_info-metadata så att verktyget kan installeras som ett add-on
 
 Bonus
-4. Testa att exponera olika värden genom att lägga till properties för operatorn, kom ihåg att dessa properties också måste placeras i panelens draw-metod
+5. Testa att exponera olika värden genom att lägga till properties för operatorn, kom ihåg att dessa properties också måste placeras i panelens draw-metod för att synas
 ```
