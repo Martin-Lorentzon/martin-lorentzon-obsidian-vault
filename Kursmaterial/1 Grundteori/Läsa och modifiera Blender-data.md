@@ -4,10 +4,13 @@ import bpy
 
 materials = bpy.data.materials  # Skapa en referens till alla material
 
-for mat in materials:         # För varje material...
-	name = mat.name           # Spara namnet
-	new_name = f"XYZ_{name}"  # Lägg till prefixet "XYZ_"
-	mat.name = new_name       # Uppdatera namnet av materialet
+for material in materials:      # För varje material...
+	name = material.name        # Spara namnet
+	new_name = f"XYZ_{name}"    # Lägg till prefixet "XYZ_"
+	material.name = new_name    # Uppdatera namnet av materialet
+
+
+# Notera att "material" och "materials" är två olika variabler
 ```
 [Data Access (bpy.data)](https://docs.blender.org/api/current/bpy.data.html#module-bpy.data)
 # bpy.context
@@ -18,6 +21,6 @@ for mat in materials:         # För varje material...
 * `bpy.context.material` (Det aktiva materialet)
 * `bpy.context.collection` (Den aktiva kollektionen)
 
-Alla variabler ur `bpy.context` är read-only och går inte att direkt ändra värdena av.
+Alla variabler ur `bpy.context` är read-only och går inte att ändra värdena av.
 
 [Context Access (bpy.context)](https://docs.blender.org/api/current/bpy.context.html#module-bpy.context)
