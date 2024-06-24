@@ -17,7 +17,7 @@
   "logLevel": "warning",
   "minifyHTML": true,
   "makeNamesWebStyle": true,
-  "onlyExportModified": true,
+  "onlyExportModified": false,
   "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
@@ -28,7 +28,7 @@
   "addRSSFeed": true,
   "siteURL": "https://blenderpython.se/",
   "authorName": "Martin Lorentzon",
-  "vaultTitle": "yrgo-blender-python",
+  "vaultTitle": "blender-python-intro-se",
   "exportPreset": "website",
   "openAfterExport": false,
   "graphAttractionForce": 1,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\lmart\\Desktop\\Html",
+  "exportPath": "D:\\\\GitHub\\yrgo-blender-python\\html",
   "filesToExport": [
     [
       "all"
