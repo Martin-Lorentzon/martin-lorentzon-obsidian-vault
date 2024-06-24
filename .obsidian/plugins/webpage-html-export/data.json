@@ -9,10 +9,10 @@
   "faviconPath": "",
   "documentWidth": "40em",
   "sidebarWidth": "20em",
-  "minOutlineCollapse": 2,
+  "minOutlineCollapse": 100,
   "startOutlineCollapsed": false,
-  "allowFoldingHeadings": true,
-  "allowFoldingLists": true,
+  "allowFoldingHeadings": false,
+  "allowFoldingLists": false,
   "allowResizingSidebars": true,
   "logLevel": "warning",
   "minifyHTML": true,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "D:\\\\GitHub\\yrgo-blender-python\\html",
+  "exportPath": "D:\\\\GitHub\\yrgo-blender-python\\docs",
   "filesToExport": [
     [
       "all"
