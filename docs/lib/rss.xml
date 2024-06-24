@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[blender-python-intro-se]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://blenderpython.se/</link><image><url>https://blenderpython.se/lib/media/favicon.png</url><title>blender-python-intro-se</title><link>https://blenderpython.se/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 24 Jun 2024 13:19:28 GMT</lastBuildDate><atom:link href="https://blenderpython.se/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 24 Jun 2024 13:19:26 GMT</pubDate><copyright><![CDATA[Martin Lorentzon]]></copyright><ttl>60</ttl><dc:creator>Martin Lorentzon</dc:creator><item><title><![CDATA[🔗 Environment Variables]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[blender-python-intro-se]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://blenderpython.se/</link><image><url>https://blenderpython.se/lib/media/favicon.png</url><title>blender-python-intro-se</title><link>https://blenderpython.se/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 24 Jun 2024 13:27:44 GMT</lastBuildDate><atom:link href="https://blenderpython.se/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 24 Jun 2024 13:27:42 GMT</pubDate><copyright><![CDATA[Martin Lorentzon]]></copyright><ttl>60</ttl><dc:creator>Martin Lorentzon</dc:creator><item><title><![CDATA[🔗 Environment Variables]]></title><description><![CDATA[ 
  <br><br>Istället för att manuellt konfigurera era script directories inuti Blender kan ni använda er av s.k. miljövariabler. Fördelen med miljövariabler är att ni kan konfigurera dem via kod med en BAT-fil exempelvis. Utöver sökvägar kan de användas till att skicka information mellan program.<br>För att bekanta er med miljövariabler kan ni testa konfigurera dem för hand.<br>
 Sök efter "Environment Variables" alternativt  "Miljövariabler"<br><img alt="System Properties Advanced.png" src="https://blenderpython.se/lib/media/system-properties-advanced.png" style="width: 400px; max-width: 100%;"><br>
 Tryck på Environment Variables<br><img alt="Environment Variables.png" src="https://blenderpython.se/lib/media/environment-variables.png" style="width: 500px; max-width: 100%;"><br>
@@ -256,13 +256,7 @@ for i in range(0, 3):
 Copy<br><br>Med lights.new("Random Light Data", "POINT") skapar vi oss ett nytt data-block av typen <a data-tooltip-position="top" aria-label="https://docs.blender.org/api/current/bpy.types.Light.html#bpy.types.Light" rel="noopener" class="external-link" href="https://docs.blender.org/api/current/bpy.types.Light.html#bpy.types.Light" target="_blank">light</a>, och slumpmässigt ändrar på värdet av dess color och energy attributer med random.<br>
 För att vår ljuskälla ska synas i scenen tilldelar vi den ett objekt och länkar objektet till den aktiva scenen. Detta upprepas tre gånger.<br><br>Detta skriptet saknar ett UI och måste köras genom Blenders text-editor.<br>Frivillig uppgift
 Om ni vill testa att designa ett användargränssnitt fungerar koden bra som utfyllnad för gränssnittets funktionalitet. Placera koden i en operator och inkludera den i en ny panel. Se till att klasserna registreras.
-]]></description><link>https://blenderpython.se/kursmaterial/kodexempel/random-ljussättning.html</link><guid isPermaLink="false">Kursmaterial/Kodexempel/Random Ljussättning.md</guid><dc:creator><![CDATA[Martin Lorentzon]]></dc:creator><pubDate>Mon, 24 Jun 2024 12:33:50 GMT</pubDate></item><item><title><![CDATA[⚙ Setup]]></title><description><![CDATA[ 
- <br><br>Dessa rubriker tar upp hur ni konfigurerar en kod-miljö mer lämpad åt riktig in-house produktion än Blenders egna text-editor. Det är givetvis ok att använda Blenders text-editor för att testa ny funktionalitet, iterera på användargränssnitt eller andra enklare tasks. Men i större sammanhang kommer ni sannolikt uppleva den som en begränsning.<br>
-<br><a data-href="Installation av Python + BPY" href="https://blenderpython.se/kursmaterial/0-setup/installation-av-python-+-bpy.html" class="internal-link" target="_self" rel="noopener">Installation av Python + BPY</a>
-<br><a data-href="Script Directories" href="https://blenderpython.se/kursmaterial/0-setup/script-directories.html" class="internal-link" target="_self" rel="noopener">Script Directories</a>
-<br><a data-href="Skapa ett Multi-file Add-on" href="https://blenderpython.se/kursmaterial/0-setup/skapa-ett-multi-file-add-on.html" class="internal-link" target="_self" rel="noopener">Skapa ett Multi-file Add-on</a>
-<br><a data-href="Environment Variables" href="https://blenderpython.se/kursmaterial/0-setup/environment-variables.html" class="internal-link" target="_self" rel="noopener">Environment Variables</a>
-]]></description><link>https://blenderpython.se/0-setup.html</link><guid isPermaLink="false">0 Setup.md</guid><dc:creator><![CDATA[Martin Lorentzon]]></dc:creator><pubDate>Mon, 24 Jun 2024 12:31:45 GMT</pubDate></item><item><title><![CDATA[🌱 Grundteori]]></title><description><![CDATA[ 
+]]></description><link>https://blenderpython.se/kursmaterial/kodexempel/random-ljussättning.html</link><guid isPermaLink="false">Kursmaterial/Kodexempel/Random Ljussättning.md</guid><dc:creator><![CDATA[Martin Lorentzon]]></dc:creator><pubDate>Mon, 24 Jun 2024 12:33:50 GMT</pubDate></item><item><title><![CDATA[🌱 Grundteori]]></title><description><![CDATA[ 
  <br><br>Innan ni utvecklar ert första verktyg är det bra om ni skapar er viss förståelse för BPY-syntaxen och hur ni konstruerar diverse funktionalitet.<br>
 <br><a data-href="Importera moduler" href="https://blenderpython.se/kursmaterial/1-grundteori/importera-moduler.html" class="internal-link" target="_self" rel="noopener">Importera moduler</a> (Python-generisk)
 <br><a data-href="Läsa och modifiera Blender-data" href="https://blenderpython.se/kursmaterial/1-grundteori/läsa-och-modifiera-blender-data.html" class="internal-link" target="_self" rel="noopener">Läsa och modifiera Blender-data</a>
@@ -272,9 +266,9 @@ Om ni vill testa att designa ett användargränssnitt fungerar koden bra som utf
 <br><a data-href="UI Gränssnitt" href="https://blenderpython.se/kursmaterial/1-grundteori/ui-gränssnitt.html" class="internal-link" target="_self" rel="noopener">UI Gränssnitt</a>
 <br><a data-href="Property" href="https://blenderpython.se/kursmaterial/1-grundteori/property.html" class="internal-link" target="_self" rel="noopener">Property</a>
 <br><a data-href="Add-on Metadata" href="https://blenderpython.se/kursmaterial/1-grundteori/add-on-metadata.html" class="internal-link" target="_self" rel="noopener">Add-on Metadata</a>
-]]></description><link>https://blenderpython.se/1-grundteori.html</link><guid isPermaLink="false">1 Grundteori.md</guid><dc:creator><![CDATA[Martin Lorentzon]]></dc:creator><pubDate>Mon, 24 Jun 2024 12:32:22 GMT</pubDate></item><item><title><![CDATA[🐍 Blender Python riktad mot produktionsmiljö]]></title><description><![CDATA[ 
+]]></description><link>https://blenderpython.se/grundteori.html</link><guid isPermaLink="false">Grundteori.md</guid><dc:creator><![CDATA[Martin Lorentzon]]></dc:creator><pubDate>Mon, 24 Jun 2024 12:32:22 GMT</pubDate></item><item><title><![CDATA[🐍 Blender Python riktad mot produktionsmiljö]]></title><description><![CDATA[ 
  <br><br><br>
-<br><a data-tooltip-position="top" aria-label="0 Setup" data-href="0 Setup" href="https://blenderpython.se/0-setup.html" class="internal-link" target="_self" rel="noopener">Setup</a>
+<br><a data-href="Setup" href="https://blenderpython.se/setup.html" class="internal-link" target="_self" rel="noopener">Setup</a>
 
 <br>Installation av Python + BPY
 <br>Script Directories
@@ -282,7 +276,7 @@ Om ni vill testa att designa ett användargränssnitt fungerar koden bra som utf
 <br>Environment Variables
 
 
-<br><a data-tooltip-position="top" aria-label="1 Grundteori" data-href="1 Grundteori" href="https://blenderpython.se/1-grundteori.html" class="internal-link" target="_self" rel="noopener">Grundteori</a>
+<br><a data-href="Grundteori" href="https://blenderpython.se/grundteori.html" class="internal-link" target="_self" rel="noopener">Grundteori</a>
 
 <br>Importera moduler
 <br>Läsa och modifiera blender-data
@@ -294,4 +288,10 @@ Om ni vill testa att designa ett användargränssnitt fungerar koden bra som utf
 <br>Add-on Metadata
 
 
-]]></description><link>https://blenderpython.se/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Martin Lorentzon]]></dc:creator><pubDate>Mon, 24 Jun 2024 12:45:24 GMT</pubDate></item></channel></rss>
+]]></description><link>https://blenderpython.se/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Martin Lorentzon]]></dc:creator><pubDate>Mon, 24 Jun 2024 13:26:47 GMT</pubDate></item><item><title><![CDATA[⚙ Setup]]></title><description><![CDATA[ 
+ <br><br>Dessa rubriker tar upp hur ni konfigurerar en kod-miljö mer lämpad åt riktig in-house produktion än Blenders egna text-editor. Det är givetvis ok att använda Blenders text-editor för att testa ny funktionalitet, iterera på användargränssnitt eller andra enklare tasks. Men i större sammanhang kommer ni sannolikt uppleva den som en begränsning.<br>
+<br><a data-href="Installation av Python + BPY" href="https://blenderpython.se/kursmaterial/0-setup/installation-av-python-+-bpy.html" class="internal-link" target="_self" rel="noopener">Installation av Python + BPY</a>
+<br><a data-href="Script Directories" href="https://blenderpython.se/kursmaterial/0-setup/script-directories.html" class="internal-link" target="_self" rel="noopener">Script Directories</a>
+<br><a data-href="Skapa ett Multi-file Add-on" href="https://blenderpython.se/kursmaterial/0-setup/skapa-ett-multi-file-add-on.html" class="internal-link" target="_self" rel="noopener">Skapa ett Multi-file Add-on</a>
+<br><a data-href="Environment Variables" href="https://blenderpython.se/kursmaterial/0-setup/environment-variables.html" class="internal-link" target="_self" rel="noopener">Environment Variables</a>
+]]></description><link>https://blenderpython.se/setup.html</link><guid isPermaLink="false">Setup.md</guid><dc:creator><![CDATA[Martin Lorentzon]]></dc:creator><pubDate>Mon, 24 Jun 2024 12:31:45 GMT</pubDate></item></channel></rss>

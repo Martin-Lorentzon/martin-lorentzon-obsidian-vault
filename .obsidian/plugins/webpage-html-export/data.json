@@ -9,7 +9,7 @@
   "faviconPath": "",
   "documentWidth": "40em",
   "sidebarWidth": "20em",
-  "minOutlineCollapse": 100,
+  "minOutlineCollapse": 2,
   "startOutlineCollapsed": false,
   "allowFoldingHeadings": false,
   "allowFoldingLists": false,

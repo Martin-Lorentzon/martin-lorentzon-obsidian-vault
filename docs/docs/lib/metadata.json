@@ -1,6 +1,6 @@
 {
   "vaultName": "blender-python-intro-se",
-  "lastExport": 1719234134899,
+  "lastExport": 1719235166703,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -12,6 +12,68 @@
     "Bilagor/New User Variable.png",
     "Bilagor/Python Version.png",
     "Bilagor/System Properties Advanced.png",
+    "docs/bilagor/context-operator.png",
+    "docs/bilagor/environment-variables.png",
+    "docs/bilagor/file-paths.png",
+    "docs/bilagor/new-user-variable.png",
+    "docs/bilagor/python-version.png",
+    "docs/bilagor/system-properties-advanced.png",
+    "docs/kursmaterial/0-setup/environment-variables.html",
+    "docs/kursmaterial/0-setup/installation-av-python-+-bpy.html",
+    "docs/kursmaterial/0-setup/script-directories.html",
+    "docs/kursmaterial/0-setup/skapa-ett-multi-file-add-on.html",
+    "docs/kursmaterial/1-grundteori/add-on-metadata.html",
+    "docs/kursmaterial/1-grundteori/importera-moduler.html",
+    "docs/kursmaterial/1-grundteori/läsa-och-modifiera-blender-data.html",
+    "docs/kursmaterial/1-grundteori/naming-conventions.html",
+    "docs/kursmaterial/1-grundteori/operator.html",
+    "docs/kursmaterial/1-grundteori/property.html",
+    "docs/kursmaterial/1-grundteori/registrera-klasser.html",
+    "docs/kursmaterial/1-grundteori/ui-gränssnitt.html",
+    "docs/kursmaterial/kodexempel/hantering-av-json.html",
+    "docs/kursmaterial/kodexempel/random-ljussättning.html",
+    "docs/lib/fonts/2d5198822ab091ce4305.woff2",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/94f2f163d4b698242fef.otf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/html/file-tree.html",
+    "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/lib/media/context-operator.png",
+    "docs/lib/media/environment-variables.png",
+    "docs/lib/media/favicon.png",
+    "docs/lib/media/file-paths.png",
+    "docs/lib/media/new-user-variable.png",
+    "docs/lib/media/python-version.png",
+    "docs/lib/media/system-properties-advanced.png",
+    "docs/lib/scripts/graph-data.js",
+    "docs/lib/scripts/graph-render-worker.js",
+    "docs/lib/scripts/graph-view.js",
+    "docs/lib/scripts/graph-wasm.wasm",
+    "docs/lib/scripts/graph-wasm.js",
+    "docs/lib/scripts/minisearch.js",
+    "docs/lib/scripts/pixi.js",
+    "docs/lib/scripts/tinycolor.js",
+    "docs/lib/scripts/webpage.js",
+    "docs/lib/styles/global-variable-styles.css",
+    "docs/lib/styles/main-styles.css",
+    "docs/lib/styles/obsidian.css",
+    "docs/lib/styles/snippets.css",
+    "docs/lib/metadata.json",
+    "docs/lib/rss.xml",
+    "docs/lib/search-index.json",
+    "docs/0-setup.html",
+    "docs/1-grundteori.html",
+    "docs/index.html",
     "Kursmaterial/0 Setup/Environment Variables.md",
     "Kursmaterial/0 Setup/Installation av Python + BPY.md",
     "Kursmaterial/0 Setup/Script Directories.md",
@@ -100,43 +162,43 @@
   ],
   "fileInfo": {
     "Bilagor/Context Operator.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 13296,
       "exportedPath": "bilagor/context-operator.png",
       "dependencies": []
     },
     "Bilagor/Environment Variables.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 71547,
       "exportedPath": "bilagor/environment-variables.png",
       "dependencies": []
     },
     "Bilagor/File Paths.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 36154,
       "exportedPath": "bilagor/file-paths.png",
       "dependencies": []
     },
     "Bilagor/New User Variable.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 6558,
       "exportedPath": "bilagor/new-user-variable.png",
       "dependencies": []
     },
     "Bilagor/Python Version.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 25567,
       "exportedPath": "bilagor/python-version.png",
       "dependencies": []
     },
     "Bilagor/System Properties Advanced.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 17310,
       "exportedPath": "bilagor/system-properties-advanced.png",
       "dependencies": []
     },
     "Kursmaterial/0 Setup/Environment Variables.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 791,
       "exportedPath": "kursmaterial/0-setup/environment-variables.html",
       "dependencies": [
@@ -146,7 +208,7 @@
       ]
     },
     "Kursmaterial/0 Setup/Installation av Python + BPY.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 1625,
       "exportedPath": "kursmaterial/0-setup/installation-av-python-+-bpy.html",
       "dependencies": [
@@ -154,7 +216,7 @@
       ]
     },
     "Kursmaterial/0 Setup/Script Directories.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 2077,
       "exportedPath": "kursmaterial/0-setup/script-directories.html",
       "dependencies": [
@@ -162,37 +224,37 @@
       ]
     },
     "Kursmaterial/0 Setup/Skapa ett Multi-file Add-on.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 70,
       "exportedPath": "kursmaterial/0-setup/skapa-ett-multi-file-add-on.html",
       "dependencies": []
     },
     "Kursmaterial/1 Grundteori/Add-on Metadata.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 0,
       "exportedPath": "kursmaterial/1-grundteori/add-on-metadata.html",
       "dependencies": []
     },
     "Kursmaterial/1 Grundteori/Importera moduler.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 835,
       "exportedPath": "kursmaterial/1-grundteori/importera-moduler.html",
       "dependencies": []
     },
     "Kursmaterial/1 Grundteori/Läsa och modifiera Blender-data.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 1458,
       "exportedPath": "kursmaterial/1-grundteori/läsa-och-modifiera-blender-data.html",
       "dependencies": []
     },
     "Kursmaterial/1 Grundteori/Naming Conventions.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 1125,
       "exportedPath": "kursmaterial/1-grundteori/naming-conventions.html",
       "dependencies": []
     },
     "Kursmaterial/1 Grundteori/Operator.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 3516,
       "exportedPath": "kursmaterial/1-grundteori/operator.html",
       "dependencies": [
@@ -200,267 +262,639 @@
       ]
     },
     "Kursmaterial/1 Grundteori/Property.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 0,
       "exportedPath": "kursmaterial/1-grundteori/property.html",
       "dependencies": []
     },
     "Kursmaterial/1 Grundteori/Registrera klasser.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 1030,
       "exportedPath": "kursmaterial/1-grundteori/registrera-klasser.html",
       "dependencies": []
     },
     "Kursmaterial/1 Grundteori/UI Gränssnitt.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 2867,
       "exportedPath": "kursmaterial/1-grundteori/ui-gränssnitt.html",
       "dependencies": []
     },
     "Kursmaterial/Kodexempel/Hantering av JSON.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 0,
       "exportedPath": "kursmaterial/kodexempel/hantering-av-json.html",
       "dependencies": []
     },
     "Kursmaterial/Kodexempel/Random Ljussättning.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 1588,
       "exportedPath": "kursmaterial/kodexempel/random-ljussättning.html",
       "dependencies": []
     },
     "0 Setup.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 529,
       "exportedPath": "0-setup.html",
       "dependencies": []
     },
     "1 Grundteori.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 414,
       "exportedPath": "1-grundteori.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 431,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/system-properties-advanced.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 17310,
       "exportedPath": "lib/media/system-properties-advanced.png",
       "dependencies": []
     },
     "lib/media/environment-variables.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 71547,
       "exportedPath": "lib/media/environment-variables.png",
       "dependencies": []
     },
     "lib/media/new-user-variable.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 6558,
       "exportedPath": "lib/media/new-user-variable.png",
       "dependencies": []
     },
     "lib/media/python-version.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 25567,
       "exportedPath": "lib/media/python-version.png",
       "dependencies": []
     },
     "lib/media/file-paths.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 36154,
       "exportedPath": "lib/media/file-paths.png",
       "dependencies": []
     },
     "lib/media/context-operator.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 13296,
       "exportedPath": "lib/media/context-operator.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1719234134899,
-      "sourceSize": 11943,
+      "modifiedTime": 1719235166703,
+      "sourceSize": 42856,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 1663,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 130183,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1719234134899,
+      "modifiedTime": 1719235166703,
       "sourceSize": 76,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "docs/bilagor/context-operator.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 13296,
+      "exportedPath": "docs/bilagor/context-operator.png",
+      "dependencies": []
+    },
+    "docs/bilagor/environment-variables.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 71547,
+      "exportedPath": "docs/bilagor/environment-variables.png",
+      "dependencies": []
+    },
+    "docs/bilagor/file-paths.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 36154,
+      "exportedPath": "docs/bilagor/file-paths.png",
+      "dependencies": []
+    },
+    "docs/bilagor/new-user-variable.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 6558,
+      "exportedPath": "docs/bilagor/new-user-variable.png",
+      "dependencies": []
+    },
+    "docs/bilagor/python-version.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 25567,
+      "exportedPath": "docs/bilagor/python-version.png",
+      "dependencies": []
+    },
+    "docs/bilagor/system-properties-advanced.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 17310,
+      "exportedPath": "docs/bilagor/system-properties-advanced.png",
+      "dependencies": []
+    },
+    "docs/kursmaterial/0-setup/environment-variables.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 16524,
+      "exportedPath": "docs/kursmaterial/0-setup/environment-variables.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/0-setup/installation-av-python-+-bpy.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 23962,
+      "exportedPath": "docs/kursmaterial/0-setup/installation-av-python-+-bpy.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/0-setup/script-directories.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 19471,
+      "exportedPath": "docs/kursmaterial/0-setup/script-directories.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/0-setup/skapa-ett-multi-file-add-on.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 14848,
+      "exportedPath": "docs/kursmaterial/0-setup/skapa-ett-multi-file-add-on.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/1-grundteori/add-on-metadata.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 14266,
+      "exportedPath": "docs/kursmaterial/1-grundteori/add-on-metadata.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/1-grundteori/importera-moduler.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 17218,
+      "exportedPath": "docs/kursmaterial/1-grundteori/importera-moduler.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/1-grundteori/läsa-och-modifiera-blender-data.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 18418,
+      "exportedPath": "docs/kursmaterial/1-grundteori/läsa-och-modifiera-blender-data.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/1-grundteori/naming-conventions.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 18923,
+      "exportedPath": "docs/kursmaterial/1-grundteori/naming-conventions.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/1-grundteori/operator.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 29236,
+      "exportedPath": "docs/kursmaterial/1-grundteori/operator.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/1-grundteori/property.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 14189,
+      "exportedPath": "docs/kursmaterial/1-grundteori/property.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/1-grundteori/registrera-klasser.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 19246,
+      "exportedPath": "docs/kursmaterial/1-grundteori/registrera-klasser.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/1-grundteori/ui-gränssnitt.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 26739,
+      "exportedPath": "docs/kursmaterial/1-grundteori/ui-gränssnitt.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/kodexempel/hantering-av-json.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 14284,
+      "exportedPath": "docs/kursmaterial/kodexempel/hantering-av-json.html",
+      "dependencies": []
+    },
+    "docs/kursmaterial/kodexempel/random-ljussättning.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 22411,
+      "exportedPath": "docs/kursmaterial/kodexempel/random-ljussättning.html",
+      "dependencies": []
+    },
+    "docs/lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 104332,
+      "exportedPath": "docs/lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 7876,
+      "exportedPath": "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 155288,
+      "exportedPath": "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 191568,
+      "exportedPath": "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 192740,
+      "exportedPath": "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 66800,
+      "exportedPath": "docs/lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 111708,
+      "exportedPath": "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 104232,
+      "exportedPath": "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 161376,
+      "exportedPath": "docs/lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 105804,
+      "exportedPath": "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 98868,
+      "exportedPath": "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 106876,
+      "exportedPath": "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 106108,
+      "exportedPath": "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "docs/lib/html/file-tree.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 11949,
+      "exportedPath": "docs/lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "docs/lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 279,
+      "exportedPath": "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "docs/lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 317,
+      "exportedPath": "docs/lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "docs/lib/media/context-operator.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 13296,
+      "exportedPath": "docs/lib/media/context-operator.png",
+      "dependencies": []
+    },
+    "docs/lib/media/environment-variables.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 71547,
+      "exportedPath": "docs/lib/media/environment-variables.png",
+      "dependencies": []
+    },
+    "docs/lib/media/favicon.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 1105,
+      "exportedPath": "docs/lib/media/favicon.png",
+      "dependencies": []
+    },
+    "docs/lib/media/file-paths.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 36154,
+      "exportedPath": "docs/lib/media/file-paths.png",
+      "dependencies": []
+    },
+    "docs/lib/media/new-user-variable.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 6558,
+      "exportedPath": "docs/lib/media/new-user-variable.png",
+      "dependencies": []
+    },
+    "docs/lib/media/python-version.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 25567,
+      "exportedPath": "docs/lib/media/python-version.png",
+      "dependencies": []
+    },
+    "docs/lib/media/system-properties-advanced.png": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 17310,
+      "exportedPath": "docs/lib/media/system-properties-advanced.png",
+      "dependencies": []
+    },
+    "docs/lib/scripts/graph-data.js": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 1669,
+      "exportedPath": "docs/lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "docs/lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 5179,
+      "exportedPath": "docs/lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "docs/lib/scripts/graph-view.js": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 15519,
+      "exportedPath": "docs/lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "docs/lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 23377,
+      "exportedPath": "docs/lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "docs/lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 14021,
+      "exportedPath": "docs/lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "docs/lib/scripts/minisearch.js": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 29422,
+      "exportedPath": "docs/lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "docs/lib/scripts/pixi.js": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 449511,
+      "exportedPath": "docs/lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "docs/lib/scripts/tinycolor.js": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 29832,
+      "exportedPath": "docs/lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "docs/lib/scripts/webpage.js": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 47290,
+      "exportedPath": "docs/lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "docs/lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 236,
+      "exportedPath": "docs/lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "docs/lib/styles/main-styles.css": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 23130,
+      "exportedPath": "docs/lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "docs/lib/styles/obsidian.css": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 130195,
+      "exportedPath": "docs/lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "docs/lib/styles/snippets.css": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 76,
+      "exportedPath": "docs/lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "docs/lib/metadata.json": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 15848,
+      "exportedPath": "docs/lib/metadata.json",
+      "dependencies": []
+    },
+    "docs/lib/rss.xml": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 31744,
+      "exportedPath": "docs/lib/rss.xml",
+      "dependencies": []
+    },
+    "docs/lib/search-index.json": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 37760,
+      "exportedPath": "docs/lib/search-index.json",
+      "dependencies": []
+    },
+    "docs/0-setup.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 15826,
+      "exportedPath": "docs/0-setup.html",
+      "dependencies": []
+    },
+    "docs/1-grundteori.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 16409,
+      "exportedPath": "docs/1-grundteori.html",
+      "dependencies": []
+    },
+    "docs/index.html": {
+      "modifiedTime": 1719235166703,
+      "sourceSize": 17323,
+      "exportedPath": "docs/index.html",
       "dependencies": []
     }
   }

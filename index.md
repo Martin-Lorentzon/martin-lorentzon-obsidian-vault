@@ -3,12 +3,12 @@ cssclasses: hide-title
 ---
 # 🐍 Blender Python riktad mot produktionsmiljö
 ## Innehållsförteckning
-1. [[0 Setup|Setup]]
+1. [[Setup]]
 	* Installation av Python + BPY
 	* Script Directories
 	* Skapa ett Multi-file Add-on
 	* Environment Variables
-1. [[1 Grundteori|Grundteori]]
+2. [[Grundteori]]
 	* Importera moduler
 	* Läsa och modifiera blender-data
 	* Operator
