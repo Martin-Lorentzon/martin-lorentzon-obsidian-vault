@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kursmaterial/0 Setup/_Setup.md",
+                "file": "Kursmaterial/0 Setup/Environment Variables.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kursmaterial/0 Setup/_Setup.md",
+                "file": "Kursmaterial/0 Setup/Environment Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kursmaterial/0 Setup/_Setup.md",
+                "file": "Kursmaterial/0 Setup/Environment Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kursmaterial/0 Setup/_Setup.md"
+                "file": "Kursmaterial/0 Setup/Environment Variables.md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "3b5ea2d01a90719d",
   "lastOpenFiles": [
-    "Kursmaterial/0 Setup/Environment Variables.md",
     "Kursmaterial/0 Setup/Installation av Python + BPY.md",
     "Kursmaterial/0 Setup/Script Directories.md",
     "Kursmaterial/0 Setup/Skapa ett Multi-file Add-on.md",
-    "Kursmaterial/1 Grundteori/Add-on Metadata.md",
+    "Kursmaterial/0 Setup/Environment Variables.md",
     "Kursmaterial/1 Grundteori/Importera moduler.md",
-    "Kursmaterial/1 Grundteori/_Grundteori.md",
-    "Kursmaterial/0 Setup/_Setup.md",
+    "Kursmaterial/1 Grundteori/Add-on Metadata.md",
+    "1 Grundteori.md",
+    "0 Setup.md",
+    "index.md",
+    "Bilagor/System Properties Advanced.png",
     "Kursmaterial/Kodexempel/Random Ljussättning.md",
     "Kursmaterial/Kodexempel/Hantering av JSON.md",
     "Kursmaterial/1 Grundteori/UI Gränssnitt.md",
@@ -164,11 +166,9 @@
     "Kursmaterial/1 Grundteori/Operator.md",
     "Kursmaterial/1 Grundteori/Naming Conventions.md",
     "Kursmaterial/1 Grundteori/Läsa och modifiera Blender-data.md",
-    "index.md",
     "🔶 Blender Python riktad mot produktionsmiljö.md",
     "Bilagor/Context Operator.png",
     "Bilagor/Context Operator.png.crdownload",
-    "Bilagor/System Properties Advanced.png",
     "Untitled.md",
     "Innehållsförteckning",
     "Kursmaterial/Kodexempel",
