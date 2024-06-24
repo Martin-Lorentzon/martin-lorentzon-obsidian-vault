@@ -1,15 +1,19 @@
-# Innehållsförteckning
-1. [[⚙ Setup]]
+---
+cssclasses: hide-title
+---
+# 🐍 Blender Python riktad mot produktionsmiljö
+## Innehållsförteckning
+1. [[_Setup|Setup]]
 	* Installation av Python + BPY
 	* Script Directories
 	* Skapa ett Multi-file Add-on
 	* Environment Variables
-1. [[🌱 Grundteori]]
+1. [[_Grundteori|Grundteori]]
 	* Importera moduler
 	* Läsa och modifiera blender-data
-	* Add-on Metadata
 	* Operator
 	* Registrera klasser
 	* Naming Conventions
-	* Layout
+	* UI Gränssnitt
 	* Property
+	* Add-on Metadata

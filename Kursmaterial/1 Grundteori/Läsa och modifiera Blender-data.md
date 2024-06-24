@@ -21,6 +21,6 @@ for material in materials:      # För varje material...
 * `bpy.context.material` (Det aktiva materialet)
 * `bpy.context.collection` (Den aktiva kollektionen)
 
-Alla variabler ur `bpy.context` är read-only och går inte att ändra värdena av.
+Alla kontextvariabler är read-only och går därmed inte att ändra värdena av.
 
 [Context Access (bpy.context)](https://docs.blender.org/api/current/bpy.context.html#module-bpy.context)

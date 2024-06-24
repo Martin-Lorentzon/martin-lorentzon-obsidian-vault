@@ -1,24 +1,26 @@
-För att Blender ska upptäcka ert add-on måste ni registrera dess Blenderspecifika klasser.
-Detta gör ni enklast i slutet på er skriptfil
+För att Blender ska upptäcka ert add-on behöver ni registrera alla dess Blenderspecifika klasser.
+En klass `MyHelpers` som enbart innehåller funktioner, till exempel, behöver ni inte registrera.
+
+Registrera klasser gör ni enklast i slutet på er skriptfil
 ```python
 def register():
-	bpy.utils.register_class(CRAZY_TOOL_PT_crazy_panel)
-	bpy.utils.register_class(CRAZY_TOOL_OT_do_crazy_things)
+	bpy.utils.register_class(MY_ADDON_PT_cool_panel)
+	bpy.utils.register_class(MY_ADDON_OT_fancy_tool)
 
 def unregister():
-	bpy.utils.unregister_class(CRAZY_TOOL_PT_crazy_panel)
-	bpy.utils.unregister_class(CRAZY_TOOL_OT_do_crazy_things)
+	bpy.utils.unregister_class(MY_ADDON_PT_cool_panel)
+	bpy.utils.unregister_class(MY_ADDON_OT_fancy_tool)
 
 if __name__ == "__main__":
     register()
 ```
-### Registrera klasser med for-loop
+## Registrera klasser med for-loop
 För att inte behöva specifiera varje klass ni registrerar två gånger kan ni använda er av for-loopen.
 Detta görs alltså istället för koden ovan
 ```python
 classes = [
-	CRAZY_TOOL_PT_crazy_panel,
-	CRAZY_TOOL_OT_do_crazy_things
+	MY_ADDON_PT_cool_panel,
+	MY_ADDON_OT_fancy_tool
 ]
 
 def register():
