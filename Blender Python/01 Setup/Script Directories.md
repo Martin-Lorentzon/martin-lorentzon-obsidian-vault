@@ -1,8 +1,3 @@
----
-cssclasses:
-  - hide-title
----
-# 📁 Script Directories
 Blender läser in add-ons från s.k. script directories. Blenders egna script directory hittar ni under
 `C:/Users/.../AppData/Roaming/Blender Foundation/Blender/4.2/scripts`
 Det räcker med att skriva `%appdata%` för att komma till `./Roaming`

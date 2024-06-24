@@ -1,8 +1,3 @@
----
-cssclasses:
-  - hide-title
----
-# 💻 Installation av Python + BPY
 Denna sektionen kommer guida er igenom hur ni installerar Python och `bpy`-modulen för att komma igång med Blender Python inuti en mer kapabel kod-editor som VSCode eller PyCharm.
 ## Installera Python
 Installera den aktuella versionen av Python som Blender använder.

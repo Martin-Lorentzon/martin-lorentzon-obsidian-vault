@@ -1,7 +1,3 @@
----
-cssclasses: hide-title
----
-# 🐍 Blender Python riktad mot produktionsmiljö
 ## Innehållsförteckning
 1. [[Setup]]
 	* Installation av Python + BPY
