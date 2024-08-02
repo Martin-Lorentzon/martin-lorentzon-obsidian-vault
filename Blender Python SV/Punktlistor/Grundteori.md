@@ -1,4 +1,4 @@
-Innan ni utvecklar ert första verktyg är det bra om ni skapar er viss förståelse för BPY-syntaxen och hur ni konstruerar diverse funktionalitet.
+Innan ni utvecklar ert första verktyg är det bra om ni skapar er viss förståelse för bpy-syntaxen och hur ni konstruerar diverse funktionalitet.
 1. [[Importera Moduler]] (Python-generisk)
 2. [[Läsa och modifiera Blender-data]]
 3. [[Operator]]

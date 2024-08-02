@@ -1,4 +1,4 @@
-För att ta användning av Blenders Python API behöver ni först importera `bpy`-modulen, detta gör ni i början av skriptfilen
+För att ta användning av Blenders Python-API behöver ni först importera bpy-modulen, detta gör ni i början av skriptfilen
 ```python
 import bpy
 ```

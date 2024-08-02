@@ -1,4 +1,4 @@
-Attributen ``bpy.data`` använder ni för att komma åt och skapa ny Blender-data som sparas med blend-filen. Med `bpy.data` kan ni få ut lite allt möjligt som objekt, meshar, material, nod-grupper etc. Såhär kan ni exempelvis uppdatera namnen på alla material med ett prefix
+Attributen `bpy.data` använder ni för att komma åt och skapa ny Blender-data som sparas med blend-filen. Med `bpy.data` kan ni få ut lite allt möjligt som objekt, meshar, material, nod-grupper etc. Såhär kan ni exempelvis uppdatera namnen på alla material med ett prefix
 ```python
 import bpy
 
@@ -19,8 +19,8 @@ for material in materials:      # För varje material...
 * `bpy.context.active_object` (Det aktiva objektet)
 * `bpy.context.selected_objects` (De markerade objekten)
 * `bpy.context.material` (Det aktiva materialet)
-* `bpy.context.collection` (Den aktiva kollektionen)
+* `bpy.context.collection` more text (Den aktiva kollektionen)
 
-Alla kontextvariabler är read-only och går därmed inte att ändra värdena av.
+Alla kontextvariabler är read-only och går därmed inte att direkt ändra värdena av.
 
 [Context Access (bpy.context)](https://docs.blender.org/api/current/bpy.context.html#module-bpy.context)

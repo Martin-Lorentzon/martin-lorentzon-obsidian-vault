@@ -2,6 +2,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "snippet"
+    "snippet",
+    "publish"
   ]
 }

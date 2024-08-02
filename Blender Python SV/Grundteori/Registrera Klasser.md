@@ -1,5 +1,5 @@
-För att Blender ska upptäcka ert add-on behöver ni registrera alla dess Blenderspecifika klasser.
-En klass `MyHelpers` som enbart innehåller funktioner, till exempel, behöver ni inte registrera.
+För att Blender ska hantera ert add-on behöver ni registrera alla dess Blenderspecifika klasser.
+En egendefinierad klass `MyHelpers` behöver ni alltså inte registrera.
 
 Registrera klasser gör ni enklast i slutet på er skriptfil
 ```python

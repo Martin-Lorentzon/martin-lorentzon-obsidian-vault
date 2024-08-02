@@ -19,13 +19,12 @@ Med `bl_space_type`, `bl_region_type`, `bl_category`, `bl_label` och `bl_context
 * `bl_region_type` (Ytan, inuti editorn, panelen ska placeras på) -> [Region Type Items](https://docs.blender.org/api/current/bpy_types_enum_items/region_type_items.html#rna-enum-region-type-items)
 * `bl_category` (Kategorin panelen går under, om applicerbart) -> Valfri text
 * `bl_label` (Namnet på panelen) -> Valfri text
-* `bl_context` (Kontextläget panelen hör hemma i) -> [Saknar dokumentation](https://docs.blender.org/api/current/bpy.types.Panel.html#bpy.types.Panel.bl_context)
+* `bl_context` (Kontextläget panelen hör hemma i) -> [TODO: Saknar dokumentation](https://docs.blender.org/api/current/bpy.types.Panel.html#bpy.types.Panel.bl_context)
 
-För en komplett lista över alla dess "bl"-attributer se [Panel(bpy_struct)](https://docs.blender.org/api/current/bpy.types.Panel.html#bpy.types.Panel)
-Resterande behövs inte inkluderas men vissa kan vara bra att känna till.
-## def draw(self, context):
+[Panel(bpy_struct)](https://docs.blender.org/api/current/bpy.types.Panel.html#bpy.types.Panel)
+## draw-metoden
 
-En klass som skapar ett användargränssnitt kommer alltid att kräva en draw-metod. Inuti klassens draw-metod beskrivs alla era UI-element så som inputfält, knappar, listor, ikoner osv.
+En klass som skapar ett användargränssnitt kommer alltid att kräva en draw-metod. Inuti klassens draw-metod beskrivs alla dess UI-element så som inputfält, knappar, listor, ikoner osv.
 
 **Exempelkod**
 ```python
@@ -61,7 +60,6 @@ def draw(self, context):
 	layout = self.layout
 	
 	row = layout.row()  # Både kolumner placeras horisontellt på samma rad
-						# Dvs. bredvid varandra
 	
 	col = row.column(align=True)
 	col.label(text="Column 1")
@@ -72,11 +70,13 @@ def draw(self, context):
 	col.operator("mesh.primitive_torus_add")
 ```
 ```python
-# Image Preview
+# Simpel Image Preview
 
 def draw(self, context):
 	layout = self.layout
 	
-	icon_id = bpy.data.images["image_name"].preview.icon_id
+	image = bpy.data.images["my_image"]
+	icon_id = image.preview.icon_id
 	layout.template_icon(icon_value=icon_id, scale=10)
 ```
+[UILayout(bpy_struct)](https://docs.blender.org/api/current/bpy.types.UILayout.html)

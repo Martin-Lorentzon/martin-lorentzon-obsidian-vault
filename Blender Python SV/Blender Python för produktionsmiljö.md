@@ -1,9 +1,9 @@
-## Innehållsförteckning
+## Innehåll
 1. [[Setup]]
 	* Installation av Python + BPY
 	* Script Directories
-	* Skapa ett Multi-file Add-on
 	* Environment Variables
+	* Skapa ett Multi-file Add-on
 2. [[Grundteori]]
 	* Importera moduler
 	* Läsa och modifiera blender-data
@@ -13,3 +13,5 @@
 	* UI Gränssnitt
 	* Property
 	* Add-on Metadata
+3. [[Kodexempel]]
+4. [[Talks]]
